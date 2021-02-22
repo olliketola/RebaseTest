@@ -1,1 +1,2 @@
 rebase branch change
+This is a new line from master
